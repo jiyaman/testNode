@@ -4,4 +4,5 @@ public class Test2Service {
 
     String aaa;
     String bbb;
+    String cvcc;
 }
